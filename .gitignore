@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+
+# Secret files
+.env
+
+# Output folders
+output/
+
+# IDE configs (optional)
+.vscode/
+.idea/
