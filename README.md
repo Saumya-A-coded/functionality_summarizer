@@ -34,7 +34,7 @@ functionality_summarizer/
 
 ### 1. Clone the Repository
 
-``` 
+``` bash
 git clone https://github.com/Saumya-A-coded/functionality_summarizer
 cd functionality_summarizer
 2. Set Up Virtual Environment (Recommended)
